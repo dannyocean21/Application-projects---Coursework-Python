@@ -48,7 +48,7 @@ This folder contains my **final project** for the Python programming course. It 
 - Visualization using `Matplotlib`
 
 **Contents:**  
-- `stock_price_prediction.py`: The full Python script for fetching stock data, training an LSTM model, predicting future prices, and plotting results.  
+- `Final project.py`: The full Python script for fetching stock data, training an LSTM model, predicting future prices, and plotting results.  
   ⚠️ **Note:** This script does not include any datasets. It fetches live stock data from Yahoo Finance.
 
 ---
